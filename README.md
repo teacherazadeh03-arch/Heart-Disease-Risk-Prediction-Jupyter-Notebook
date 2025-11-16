@@ -39,7 +39,7 @@ How to Run
 
 1-Open the notebook in Jupyter or VS Code.
 2-Run the first cell to install ucimlrepo.
-3-Run all cells sequentially — the notebook will:
+3-Run all cells sequentially, the notebook will:
 Fetch the dataset automatically
 Handle missing values
 Train multiple models
