@@ -1,4 +1,4 @@
-# Heart-Disease-Risk-Prediction-Jupyter-Notebook
+# Heart-Disease-Risk-Prediction-Python-Jupyter-Notebook
 This Jupyter Notebook demonstrates how to predict the risk of heart disease using the UCI Heart Disease dataset.It implements multiple machine learning algorithms, including:
 Decision Tree
 Random Forest
