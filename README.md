@@ -3,7 +3,7 @@ This Jupyter Notebook demonstrates how to predict the risk of heart disease usin
 Decision Tree
 Random Forest
 Logistic Regression
-Gradient Boosting Classifier
+Gradient Boosting Classifier 
 
 The notebook is fully self-contained and does not require manually downloading the dataset from UCI. Instead, it uses the Python package ucimlrepo to fetch the dataset programmatically.
 Key Features and Fixes
